@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HyguiSpot
-- 👀 I’m interested in getting better
-- 🌱 I’m currently learning computer science, enrolled in cs50 from harvard university
-- 💞️ I’m looking to collaborate on any projects that will helpp become a better programmer
-- 📫 How to reach me: Instagram: @hyugispot
+- 👀 I’m interested in developing my skillset and abilities, and becoming the best professional I can become.
+- 🌱 I’m currently learning Cybersecurity, and enrolled in the Google Professional Cybersecurity Certification.
+- 💞️ I’m highly motivated to keep improving, building my skillset, and improving. Hoping to find a job and break into the tech industry.
+- 📫 How to reach me: Instagram: Direct message in Github, that I check daily.
 
 <!---
 HyguiSpot/HyguiSpot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
