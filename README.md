@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HyguiSpot
+- 👋 Hi, I’m Hyugisan
 - 👀 I’m interested in developing my skillset and abilities, and becoming the best professional I can become.
 - 🌱 I’m currently learning Cybersecurity, and enrolled in the Google Professional Cybersecurity Certification.
 - 💞️ I’m highly motivated to keep improving, building my skillset, and improving. Hoping to find a job and break into the tech industry.
