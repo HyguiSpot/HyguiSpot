@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hyugisan
 - 👀 I’m interested in developing my skillset and abilities, and becoming the best professional I can become.
-- 🌱 I’m currently learning Cybersecurity, and enrolled in the Google Professional Cybersecurity Certification.
+- 🌱 I’m currently enrolled in a Professional Networking and Systems Administration Course. I'm a certified cybersecurity professional by Google.
 - 💞️ I’m highly motivated to keep improving, building my skillset, and improving. Hoping to find a job and break into the tech industry.
 - 📫 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@hugo-marques/30-nites-of-code)  
